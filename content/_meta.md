@@ -1,9 +1,9 @@
 ---
-Logo: assets/image/leaf_256x256.png
+Logo: assets/image/Jag_150x150.jpg
 Tagline: Portfoliosida.
 Social:
   - title: Link till sidans github-repo.
-    url: https://github.com/dbwebb-se/design-v3
+    url: https://github.com/AlexanderAndreasson/design-bth
     icon: github
   - title: Link till sidans dbwebb-sida.
     url: https://dbwebb.se/design
